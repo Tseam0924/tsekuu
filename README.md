@@ -1,0 +1,2 @@
+# tsekuu
+seminar
